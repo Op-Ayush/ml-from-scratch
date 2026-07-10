@@ -9,6 +9,7 @@ ML algorithms built from scratch using only NumPy. No sklearn models used.
 | Linear Regression | Iris | R²=0.93 |
 | KNN | Iris | Accuracy=95.33% |
 | Logistic Regression | Breast Cancer | Accuracy=98.77% |
+| Decision Tree | Iris | 100% (train) | Gini impurity, recursive splitting |
 
 ## What I learned
 - Derived gradient descent mathematically before coding
